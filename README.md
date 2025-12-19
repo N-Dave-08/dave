@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-dave-08&label=Profile%20views&color=0e75b6&style=flat" alt="n-dave-08" /> </p>
 
-- 🔭 I’m currently learning SQL [SQL-Everyday](https://github.com/N-Dave-08/SQL-Everyday)
+- 🔭 I’m currently learning **Data Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
