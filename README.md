@@ -54,12 +54,8 @@
 <!-- STATS -->
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-dave-08&show_icons=true&" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n-dave-08&layout=compact&" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n-dave-08&" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n-dave-08&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n-dave-08&layout=compact&theme=transparent" height="165" />
 </p>
 
 ---
