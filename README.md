@@ -13,7 +13,7 @@
 <!-- ABOUT -->
 ### 👨‍💻 About Me
 - 🔭 Currently learning **Data Engineering** (pipelines, databases, cloud basics)
-- 📊 Interested in **Data Science**, analytics, and scalable backends
+- 📊 Interested in **Software Engineering**, data, and scalable backends
 - 🚀 Building products — check out my SaaS: **[WatchTrackr](https://www.watchtrackr.app/)** 
 - 🌏 Based in the **Philippines**
 
