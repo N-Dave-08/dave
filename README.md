@@ -1,6 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Next.js & Web Development Enthusiast</h3>
+<h3 align="center">Software Developer | Next.js & Web Development Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.watchtrackr.app/" target="_blank"><img src="https://img.shields.io/badge/SaaS-WatchTrackr-0e75b6?style=for-the-badge" /></a>
